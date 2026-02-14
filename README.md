@@ -245,6 +245,3 @@ Raphael Sampaio
 
 LinkedIn: https://www.linkedin.com/in/raphaelssampaio/
 YouTube: https://www.youtube.com/@SampaioDev
-
-
-Se quiser, no próximo passo eu escrevo também a descrição do vídeo do YouTube já com título, tags e call to action bem agressivo pra retenção.
